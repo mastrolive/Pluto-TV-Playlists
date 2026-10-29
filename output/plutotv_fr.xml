@@ -2231,6 +2231,11 @@
         <desc>Après des années de guerre, la Fédération et l'empire klingon préparent un accord de paix lorsqu'un navire klingon manque d'être détruit, apparemment par l'Enterprise. Les deux mondes se préparent à ce qui pourrait être un affrontement meurtrier.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd5e17f63001ae1a66c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61f93af0b253440007c54ad8" start="20261029075048 +0000" stop="20261029095748 +0000">
+        <title>Star Trek VI: Terre Inconnue</title>
+        <desc>Le seul espoir d'avenir pour Picard se trouve dans le Nexus… et un légendaire capitaine du passé.</desc>
+        <icon src="https://images.pluto.tv/series/601cfbd3e17f63001ae1a640/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62f3e0522443200008c567d7" start="20261029021932 +0000" stop="20261029040750 +0000">
         <title>Jean de la Fontaine, le défi</title>
         <desc>Paris, 1661. Alors que tous les artistes du royaume de France cherchent à entrer dans les bonnes grâces du roi Soleil, Jean de La Fontaine n’hésite pas à dénoncer les abus du pouvoir.</desc>
@@ -30543,6 +30548,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Révélations</title>
         <desc>Ils seraient près de 1 500 en France à exercer une des professions les plus mystérieuses : détective privé.</desc>
         <icon src="https://images.pluto.tv/series/6613b9cea7a31d00170ccc7f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63921a1bf76e7d0007c998a6" start="20261030033700 +0000" stop="20261030043400 +0000">
+        <title>STUDIO 120</title>
+        <desc>La réalité d'une guerre devenue un métier. Le responsable ? Le business des mercenaires, où certains risquent leur vie pendant que d'autres en tirent profit.</desc>
+        <icon src="https://images.pluto.tv/series/69fa14edffc6644289b2b7f2/tile_1791907918618.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63921a3d00c96100082a3cb4" start="20261029230900 +0000" stop="20261029235800 +0000">
         <title>Faits divers le mag</title>
